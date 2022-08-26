@@ -1,2 +1,1 @@
-# MiDogs
-Connecting people looking to breed t dogs around the world 
+TinDog Starting Files
